@@ -10,5 +10,5 @@
 }
 hr.style1{
     height: 1px; 
-    background-image: -webkit-linear-gradient(right, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+    background-image: -webkit-linear-gradient(right, white, white, white, white, white);
 }

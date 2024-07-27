@@ -35,7 +35,7 @@
     left: 0;
     width: 0;
     height: 1px;
-    background: linear-gradient(to left, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+    background: white;
 }
 
 .scroll-down{
@@ -115,7 +115,7 @@
     background-color: black;
 }
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(to bottom, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+    background: white;
     border-radius: 10px;
 }
 

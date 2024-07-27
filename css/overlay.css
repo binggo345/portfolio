@@ -8,7 +8,7 @@
     position: fixed;
 }
 .layer{
-    background: linear-gradient(to bottom, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+    background: white;
 }
 .layer-1{
     flex: 1;

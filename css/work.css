@@ -78,17 +78,17 @@
     -moz-border-radius: 100px;
     border-radius: 100px;
     z-index: 10;
-    background: linear-gradient(to bottom, #ceff1a, #bcff0d, #a9ff01, #93ff00, #7aff00);
+    background: white;
     border: 2px dashed white;
 }
 .timeline-row .timeline-content h5 {
-    margin: 0 0 20px 0;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     line-height: 150%;
 }
 .timeline-row .timeline-content p {
+    margin-top: 20px;
     text-align: center;
     margin-bottom: 30px;
     line-height: 150%;
